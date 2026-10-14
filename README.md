@@ -8,3 +8,8 @@ Machine learning is a branch of AI that is used  to make ai models that learn fr
 4. Image/video generation models
 5. LLMs
 
+## Types of machine learningmmethods
+               Machine learning
+                      |
+           -------------------------
+           
