@@ -117,4 +117,4 @@ df_loaded_model_scaled = pd.DataFrame(array_loaded_model_scaled, columns=df_load
 
 pred = loaded_model.predict(df_loaded_model_scaled)
 
-print("Prediction of our loaded model : ",pred)
+print("Prediction of our loaded model : ", pred)
