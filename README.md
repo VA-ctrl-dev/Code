@@ -16,4 +16,5 @@ Machine learning is a branch of AI that is used  to make ai models that learn fr
     Supervised  Unsupervised  Rienforcement
      Learning     Learning      Learning
 
-‘Supervised’
+### Supervised Learning 
+Supervised Learning is a type of machine learning in which the model is trained on a data with the output given with input and model uses mathematical algorithms to find patterns in inputs and their respective outputs. 
