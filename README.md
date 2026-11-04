@@ -13,5 +13,5 @@ Machine learning is a branch of AI that is used  to make ai models that learn fr
                       |
          ----------------------------
          |            |             |
-    Supervised 
-     Learning
+    Supervised  Unsupervised  Rienforcement
+     Learning     Learning      Learning
