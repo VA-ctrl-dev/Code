@@ -11,5 +11,7 @@ Machine learning is a branch of AI that is used  to make ai models that learn fr
 ## Types of machine learning methods
                Machine learning
                       |
-           -------------------------
-           
+         ----------------------------
+         |            |             |
+    Supervised 
+     Learning
